@@ -1,0 +1,1 @@
+# auto-test-based-on-Airtest
